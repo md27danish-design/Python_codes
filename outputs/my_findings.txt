@@ -1,0 +1,9 @@
+Dataset has 500 rows and 11 columns.
+Method chosen: <your method>. Reason: <your reasoning>.
+Interpretation: <what does the relationship mean? correlation is not causation>
+Outlier comment: <error in data, or genuinely exceptional student?>
+Recommendation 1: <recommendation 1> - evidence: <your number>
+Recommendation 2: <recommendation 2> - evidence: <your number>
+Recommendation 3: <recommendation 3> - evidence: <your number>
+Recommendation 4: <recommendation 4> - evidence: <your number>
+Recommendation 5: <recommendation 5> - evidence: <your number>
